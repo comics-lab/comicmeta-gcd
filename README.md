@@ -1,5 +1,11 @@
 # comicmeta-gcd
 
+## Agent and Logs
+
+- Agent profile: `AGENTS.md`
+- Logs (local-only): `CONVERSATION.md`, `BOOKMARKS.md`, `Action-Log.md` (when present)
+
+
 Grand Comics Database loader from their dump files.
 
 ## Quickstart
